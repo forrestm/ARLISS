@@ -1,0 +1,257 @@
+Angle: -52.89203
+Target Distance: 4956.733Current point: (40.83652, -119.0873)
+Angle: -132.4406
+Target Distance: 4963.155Current point: (40.83654, -119.0873)
+Angle: -24.16178
+Target Distance: 4960.865Current point: (40.83661, -119.0873)
+Angle: -24.91403
+Target Distance: 4954.224Current point: (40.83664, -119.0873)
+Angle: -93.92814
+Target Distance: 4954.468Current point: (40.8367, -119.0872)
+Angle: -89.43503
+Target Distance: 4954.499Current point: (40.83673, -119.0873)
+Angle: -22.00375
+Target Distance: 4950.382Current point: (40.83675, -119.0873)
+Angle: -12.34439
+Target Distance: 4948.552Current point: (40.83679, -119.0872)
+Angle: -87.18396
+Target Distance: 4948.358Current point: (40.83679, -119.0872)
+Angle: -129.3666
+Target Distance: 4949.974Current point: (40.83682, -119.0872)
+Angle: -103.7761
+Target Distance: 4950.923Current point: (40.83686, -119.0872)
+Angle: -5.08252
+Target Distance: 4943.137Current point: (40.83689, -119.0873)
+Angle: -2.906311
+Target Distance: 4938.783Current point: (40.83693, -119.0873)
+Angle: -53.38006
+Target Distance: 4936.516Current point: (40.83695, -119.0872)
+Angle: -109.9805
+Target Distance: 4938.396Current point: (40.837, -119.0872)
+Angle: -53.48801
+Target Distance: 4935.457Current point: (40.83703, -119.0872)
+Angle: -36.67819
+Target Distance: 4932.273Current point: (40.83705, -119.0872)
+Angle: -53.52796
+Target Distance: 4931.37Current point: (40.83709, -119.0872)
+Angle: -80.35373
+Target Distance: 4930.511Current point: (40.83714, -119.0872)
+Angle: -65.05588
+Target Distance: 4928.058Current point: (40.83718, -119.0872)
+Angle: -26.90903
+Target Distance: 4923.504Current point: (40.83722, -119.0872)
+Angle: -40.10336
+Target Distance: 4919.654Current point: (40.83725, -119.0872)
+Angle: -53.7522
+Target Distance: 4917.408Current point: (40.83728, -119.0872)
+Angle: -53.77362
+Target Distance: 4915.835
+Target Distance: 4916.664Current point: (40.83735, -119.0872)
+Angle: -53.88638
+Target Distance: 4915.767Current point: (40.8374, -119.0872)
+Angle: -53.9365
+Target Distance: 4912.859Current point: (40.83744, -119.0872)
+Angle: -67.09726
+Target Distance: 4910.883Current point: (40.83747, -119.0871)
+Angle: -70.87192
+Target Distance: 4909.582Current point: (40.83751, -119.0872)
+Angle: -20.13208
+Target Distance: 4905.713Current point: (40.83758, -119.0872)
+Angle: -54.13037
+Target Distance: 4900.811Current point: (40.83759, -119.0872)
+Angle: -95.00086
+Target Distance: 4900.853Current point: (40.83766, -119.0872)
+Angle: -45.39529
+Target Distance: 4895.475Current point: (40.83767, -119.0872)
+Angle: -54.22586
+Target Distance: 4894.809Current point: (40.8377, -119.0871)
+Angle: -95.11502
+Target Distance: 4895.121Current point: (40.83773, -119.0871)
+Angle: -102.9335
+Target Distance: 4896.148Current point: (40.8378, -119.0872)
+Angle: -28.08148
+Target Distance: 4887.319Current point: (40.83781, -119.0872)
+Angle: -3.936096
+Target Distance: 4885.72Current point: (40.83786, -119.0872)
+Angle: -32.4386
+Target Distance: 4880.755Current point: (40.83789, -119.0872)
+Angle: -99.70154
+Target Distance: 4881.078Current point: (40.83791, -119.0871)
+Angle: -87.00174
+Target Distance: 4880.963Current point: (40.83795, -119.0872)
+Angle: -37.69165
+Target Distance: 4877.602Current point: (40.83799, -119.0872)
+Angle: -25.73416
+Target Distance: 4873.525Current point: (40.83803, -119.0872)
+Angle: -26.82129
+Target Distance: 4869.009Current point: (40.83807, -119.0872)
+Angle: -94.17887
+Target Distance: 4869.401Current point: (40.83809, -119.0871)
+Angle: -88.61206
+Target Distance: 4869.299Current point: (40.83812, -119.0871)
+Angle: -54.72235
+Target Distance: 4867.544Current point: (40.83817, -119.0872)
+Angle: -18.75562
+Target Distance: 4861.876Current point: (40.8382, -119.0872)
+Angle: -23.58301
+Target Distance: 4857.807Current point: (40.83824, -119.0872)
+Angle: -100.0901
+Target Distance: 4859.156Current point: (40.83825, -119.0871)
+Angle: -122.4221
+Target Distance: 4860.38Current point: (40.83827, -119.0871)
+Angle: -97.86292
+Target Distance: 4860.731Current point: (40.83829, -119.0872)
+Angle: 20.31183
+Target Distance: 4855.155Current point: (40.83828, -119.0872)
+Angle: 47.57382
+Target Distance: 4852.772Current point: (40.83835, -119.0872)
+Angle: -54.92682
+Target Distance: 4848.403Current point: (40.83836, -119.0872)
+Angle: -114.9136
+Target Distance: 4849.411Current point: (40.83843, -119.0872)
+Angle: -45.2009
+Target Distance: 4844.546Current point: (40.83847, -119.0872)
+Angle: -41.9458
+Target Distance: 4840.774Current point: (40.83848, -119.0872)
+Angle: -55.0759
+Target Distance: 4839.469Current point: (40.83851, -119.0872)
+Angle: -107.4915
+Target Distance: 4840.776Current point: (40.83855, -119.0872)
+Angle: -72.00672
+Target Distance: 4839.548Current point: (40.83858, -119.0872)
+Angle: -6.562073
+Target Distance: 4834.982Current point: (40.83862, -119.0873)
+Angle: -11.11112
+Target Distance: 4828.387Current point: (40.83864, -119.0873)
+Angle: -55.21515
+Target Distance: 4827.087Current point: (40.83868, -119.0872)
+Angle: -96.12513
+Target Distance: 4827.538Current point: (40.8387, -119.0872)
+Angle: -107.6948
+Target Distance: 4828.86Current point: (40.83874, -119.0872)
+Angle: -13.10522
+Target Distance: 4823.863Current point: (40.83879, -119.0873)
+Angle: -25.8035
+Target Distance: 4817.787Current point: (40.83882, -119.0872)
+Angle: -75.01105
+Target Distance: 4816.791Current point: (40.83883, -119.0872)
+Angle: -130.0543
+Target Distance: 4818.985Current point: (40.83889, -119.0872)
+Angle: -64.57852
+Target Distance: 4815.842Current point: (40.83893, -119.0872)
+Angle: -14.69708
+Target Distance: 4810.635Current point: (40.83894, -119.0872)
+Angle: -92.67676
+Target Distance: 4810.723Current point: (40.83897, -119.0872)
+Angle: -100.8544
+Target Distance: 4811.332Current point: (40.839, -119.0872)
+Angle: -81.5033
+Target Distance: 4810.657Current point: (40.83904, -119.0872)
+Angle: -55.7085
+Target Distance: 4808.301Current point: (40.83909, -119.0872)
+Angle: -43.96457
+Target Distance: 4804.357Current point: (40.83912, -119.0872)
+Angle: -73.46375
+Target Distance: 4803.384Current point: (40.83918, -119.0871)
+Angle: -90.56269
+Target Distance: 4803.564Current point: (40.8392, -119.0871)
+Angle: -55.9079
+Target Distance: 4802.498Current point: (40.83923, -119.0871)
+Angle: -55.94543
+Target Distance: 4800.371Current point: (40.83928, -119.0871)
+Angle: -78.67307
+Target Distance: 4799.088Current point: (40.83931, -119.0871)
+Angle: -56.05478
+Target Distance: 4796.965Current point: (40.83935, -119.0871)
+Angle: -40.70468
+Target Distance: 4793.679Current point: (40.8394, -119.0871)
+Angle: -68.34616
+Target Distance: 4791.669Current point: (40.83942, -119.087)
+Angle: -119.8206
+Target Distance: 4793.687Current point: (40.83946, -119.087)
+Angle: -84.00317
+Target Distance: 4793.064Current point: (40.8395, -119.087)
+Angle: -33.62747
+Target Distance: 4788.409Current point: (40.83956, -119.0871)
+Angle: -27.50269
+Target Distance: 4781.957Current point: (40.83958, -119.0871)
+Angle: -56.33801
+Target Distance: 4780.904Current point: (40.83961, -119.087)
+Angle: -100.0992
+Target Distance: 4781.882Current point: (40.83964, -119.087)
+Angle: -102.9403
+Target Distance: 4783.403Current point: (40.83966, -119.0869)
+Angle: -117.6689
+Target Distance: 4785.23Current point: (40.83968, -119.0869)
+Angle: -56.53168
+Target Distance: 4784.182Current point: (40.83973, -119.087)
+Angle: -18.57227
+Target Distance: 4776.996Current point: (40.83979, -119.087)
+Angle: -46.52573
+Target Distance: 4772.48Current point: (40.83981, -119.087)
+Angle: -83.41422
+Target Distance: 4772.186Current point: (40.83985, -119.087)
+Angle: -81.67548
+Target Distance: 4771.604Current point: (40.83988, -119.087)
+Angle: -56.74103
+Target Distance: 4769.728Current point: (40.83992, -119.087)
+Angle: -32.62979
+Target Distance: 4765.098Current point: (40.83997, -119.087)
+Angle: -56.82331
+Target Distance: 4762.81Current point: (40.84001, -119.087)
+Angle: -88.06033
+Target Distance: 4762.451Current point: (40.84003, -119.0869)
+Angle: -95.82507
+Target Distance: 4762.716Current point: (40.84007, -119.0869)
+Angle: -56.96265
+Target Distance: 4760.437Current point: (40.8401, -119.087)
+Angle: -24.48532
+Target Distance: 4756.647Current point: (40.84014, -119.087)
+Angle: -18.71881
+Target Distance: 4751.272Current point: (40.84018, -119.087)
+Angle: -82.90606
+Target Distance: 4750.721Current point: (40.8402, -119.0869)
+Angle: -120.7457
+Target Distance: 4752.584Current point: (40.84025, -119.087)
+Angle: -36.43695
+Target Distance: 4747.355Current point: (40.84027, -119.087)
+Angle: -57.17432
+Target Distance: 4746.531Current point: (40.8403, -119.087)
+Angle: -40.3688
+Target Distance: 4743.506Current point: (40.84037, -119.0869)
+Angle: -79.73459
+Target Distance: 4741.887Current point: (40.84038, -119.0869)
+Angle: -57.32053
+Im stuck at: (40.84038, -119.0869)
+I will try to escape
+Target Distance: 4741.477Current point: (40.84044, -119.0869)
+Angle: -46.32581
+Target Distance: 4737.23Current point: (40.84045, -119.087)
+Angle: -16.53198
+Target Distance: 4735.647Current point: (40.84049, -119.087)
+Angle: -57.42355
+Target Distance: 4733.396Current point: (40.84055, -119.0869)
+Angle: -91.44107
+Target Distance: 4733.392Current point: (40.84057, -119.0869)
+Angle: -16.68851
+Target Distance: 4730.024Current point: (40.84059, -119.0869)
+Angle: -57.5607
+Target Distance: 4728.802Current point: (40.84063, -119.0869)
+Angle: -74.44351
+Target Distance: 4727.735Current point: (40.84066, -119.0869)
+Angle: -86.48257
+Target Distance: 4727.44Current point: (40.84073, -119.0869)
+Angle: -48.18414
+Target Distance: 4722.815Current point: (40.84077, -119.0869)
+Angle: -88.99146
+Target Distance: 4722.692Current point: (40.84078, -119.0869)
+Angle: -57.814
+Im stuck at: (40.84078, -119.0869)
+I will try to escape
+Target Distance: 4722.49Current point: (40.84081, -119.0869)
+Angle: -23.91458
+Target Distance: 4718.522Current point: (40.84082, -119.0869)
+Angle: 32.17319
+Target Distance: 4717.548Current point: (40.84083, -119.0869)
+Angle: -12.58279
+Target Distance: 4715.969
